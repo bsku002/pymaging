@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PYTHON_VERSIONS="2.6 2.7 3.1 3.2 3.3"
+PYTHON_VERSIONS="2.6 2.7 3.1 3.2 3.3 3.4 3.5"
 COMMAND="setup.py test"
 STATUS=0
 
